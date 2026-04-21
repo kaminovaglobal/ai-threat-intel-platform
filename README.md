@@ -1,10 +1,10 @@
-# 🚨 AI Threat Intelligence Platform
+#  AI Threat Intelligence Platform
 
 An AI-powered threat intelligence and forensic analysis platform for detecting suspicious API and blockchain activity in real-time.
 
 ---
 
-## 📌 Problem
+##  Problem
 
 Modern applications—especially in Web3—face increasing threats such as:
 - Wallet exploits and fund laundering  
@@ -15,7 +15,7 @@ Existing tools are fragmented and reactive, leaving security teams blind to earl
 
 ---
 
-## 💡 Solution
+##  Solution
 
 This project provides a **real-time threat intelligence platform** that:
 - Monitors blockchain transactions and API activity  
@@ -25,17 +25,17 @@ This project provides a **real-time threat intelligence platform** that:
 
 ---
 
-## ⚙️ Features (MVP)
+##  Features (MVP)
 
-- 🔍 Real-time transaction monitoring  
-- 🧠 Behavioral anomaly detection  
-- ⚠️ Risk scoring engine  
-- 📊 Dashboard for threat visualization  
-- 🔔 Alert system for high-risk activity  
+-  Real-time transaction monitoring  
+-  Behavioral anomaly detection  
+-  Risk scoring engine  
+-  Dashboard for threat visualization  
+-  Alert system for high-risk activity  
 
 ---
 
-## 🏗️ Architecture
+##  Architecture
 
 ### Frontend
 - React.js
@@ -58,31 +58,11 @@ This project provides a **real-time threat intelligence platform** that:
 
 ---
 
-## 🚀 Getting Started
+##  Getting Started
 
-### 1. Clone the repo
-```bash
-git clone https://github.com/your-username/ai-threat-intel-platform.git
-cd ai-threat-intel-platform
-```
 
-### 2. Backend Setup
-```bash
-cd backend
-pip install -r requirements.txt
-python app.py
-```
 
-### 3. Frontend Setup
-```bash
-cd frontend
-npm install
-npm run dev
-```
-
----
-
-## 📊 Example Use Cases
+##  Example Use Cases
 
 - Detect suspicious wallet behavior (rapid fund movement, mixing patterns)  
 - Monitor abnormal API traffic  
@@ -90,7 +70,7 @@ npm run dev
 
 ---
 
-## 🔮 Future Improvements
+##  Future Improvements
 
 - Multi-chain support (Ethereum, Solana, etc.)  
 - Wallet clustering & attribution  
